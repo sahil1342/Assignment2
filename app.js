@@ -8,7 +8,7 @@ import {
     RouterProvider,
   } from "react-router-dom";
 import { useEffect, useState } from 'react';
-import ProductDescription from './src/pages/ProductDescription';
+import ProductDescription from './src/pages/productDescription';
 
 
 
